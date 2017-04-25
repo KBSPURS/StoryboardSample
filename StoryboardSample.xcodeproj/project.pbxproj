@@ -15,6 +15,7 @@
 		4D0A93381EAF18E7009C414A /* PinkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A93371EAF18E7009C414A /* PinkViewController.swift */; };
 		4D0A933A1EAF1B57009C414A /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A93391EAF1B57009C414A /* GreenViewController.swift */; };
 		4D0A933C1EAF1BEC009C414A /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A933B1EAF1BEC009C414A /* BlueViewController.swift */; };
+		4D0A933E1EAF312E009C414A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4D0A933D1EAF312E009C414A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		4D0A93371EAF18E7009C414A /* PinkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkViewController.swift; sourceTree = "<group>"; };
 		4D0A93391EAF1B57009C414A /* GreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 		4D0A933B1EAF1BEC009C414A /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
+		4D0A933D1EAF312E009C414A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		4D0A93151EAF1088009C414A = {
 			isa = PBXGroup;
 			children = (
+				4D0A933D1EAF312E009C414A /* .gitignore */,
 				4D0A93201EAF1088009C414A /* StoryboardSample */,
 				4D0A931F1EAF1088009C414A /* Products */,
 			);
@@ -132,6 +135,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D0A933E1EAF312E009C414A /* .gitignore in Resources */,
 				4D0A932C1EAF1088009C414A /* LaunchScreen.storyboard in Resources */,
 				4D0A93291EAF1088009C414A /* Assets.xcassets in Resources */,
 				4D0A93271EAF1088009C414A /* Main.storyboard in Resources */,
