@@ -16,6 +16,7 @@
 		4D0A933A1EAF1B57009C414A /* GreenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A93391EAF1B57009C414A /* GreenViewController.swift */; };
 		4D0A933C1EAF1BEC009C414A /* BlueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A933B1EAF1BEC009C414A /* BlueViewController.swift */; };
 		4D0A933E1EAF312E009C414A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 4D0A933D1EAF312E009C414A /* .gitignore */; };
+		4D0A93401EAF35A3009C414A /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D0A933F1EAF35A3009C414A /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4D0A93391EAF1B57009C414A /* GreenViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenViewController.swift; sourceTree = "<group>"; };
 		4D0A933B1EAF1BEC009C414A /* BlueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueViewController.swift; sourceTree = "<group>"; };
 		4D0A933D1EAF312E009C414A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		4D0A933F1EAF35A3009C414A /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4D0A93371EAF18E7009C414A /* PinkViewController.swift */,
 				4D0A93391EAF1B57009C414A /* GreenViewController.swift */,
 				4D0A933B1EAF1BEC009C414A /* BlueViewController.swift */,
+				4D0A933F1EAF35A3009C414A /* LoginViewController.swift */,
 			);
 			path = StoryboardSample;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4D0A93401EAF35A3009C414A /* LoginViewController.swift in Sources */,
 				4D0A933A1EAF1B57009C414A /* GreenViewController.swift in Sources */,
 				4D0A93381EAF18E7009C414A /* PinkViewController.swift in Sources */,
 				4D0A93241EAF1088009C414A /* ViewController.swift in Sources */,
